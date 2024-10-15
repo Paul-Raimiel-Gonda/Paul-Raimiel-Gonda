@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,rust,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,rust,html,css" />
 </div>
 
 <br/>
